@@ -106,7 +106,7 @@ OPENROUTER_API_KEY=your-api-key-here
 
 ## 👨‍💻 Author
 
-M. Umesh Chandra<br>
+N. Arun<br>
 B.S Mathematics and Computing (Batch 2022)<br> 
 Project: Telecom Churn Prediction + LLM Explanation
 
