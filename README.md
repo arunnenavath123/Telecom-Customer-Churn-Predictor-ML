@@ -64,27 +64,7 @@ Create a `.env` file in your project root:
 OPENROUTER_API_KEY=your-api-key-here
 ```
 
----
 
-## 📦 How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/2201AI24/telecom-churn-prediction-llm.git
-   cd telecom-churn-prediction-llm
-   ```
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Add your `.env` file with the OpenRouter API key.
-4. Run the Streamlit app:
-
-   ```bash
-   streamlit run app.py
-   ```
 
 ---
 
